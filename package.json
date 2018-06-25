@@ -5,7 +5,7 @@
   "dependencies": {
     "blob": "0.0.1",
     "debug": "0.7.4",
-    "express": "3.4.8",
+    "express": "4.16.0",
     "jquery": "1.11.0",
     "mustache-express": "1.0.1",
     "redis": "0.10.1",
